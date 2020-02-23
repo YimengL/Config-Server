@@ -9,6 +9,8 @@ spring:
           search-paths: licensingservice
           username:
           password:
+        encrypt:
+          enabled: false
 
 
 #server:
